@@ -58,6 +58,9 @@
 // myName(myWord);
 
 
+// setTimeout(myWord, 2000, 'Ramsey');
+let names = ["Ram", "Shyam", "Hari"];
+names.forEach(myWord)
 
 function myName(hello){
 let name = 'David';
@@ -67,4 +70,4 @@ hello(name);
 function myWord(nme){
     console.log('Hello', nme);
 }
-myName(myWord);
+// myName(myWord);
