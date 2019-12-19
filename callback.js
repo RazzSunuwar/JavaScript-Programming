@@ -30,3 +30,29 @@
 
 // console.log('eat food');
 // console.log('take bath');
+
+
+
+// function doThing(other){
+//     let x = 7;
+//     // do lots of other things
+//     // ...
+//     other();
+// }
+
+// function hello(){
+//     console.log('hello');
+// }
+// doThing(hello);
+
+
+//Self
+
+// function myName(hello){
+
+// hello()
+// }
+// function myWord(){
+//     console.log('Hello World')
+// }
+// myName(myWord);
