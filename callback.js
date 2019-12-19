@@ -23,7 +23,7 @@
 // console.log('i don\'t have money so i asked money with parent')
 //  //function as an argument is callback function
 // askMoney(3000, function(){
-// console.log('Result of asked moeny arrived');
+// console.log('Result of asked money arrived');
 // console.log('now i should perform all the blocking work which need money')
 // console.log('this block should be executed');    
 // });
