@@ -56,3 +56,15 @@
 //     console.log('Hello World')
 // }
 // myName(myWord);
+
+
+
+function myName(hello){
+let name = 'David';
+hello(name);
+}   
+
+function myWord(nme){
+    console.log('Hello', nme);
+}
+myName(myWord);
